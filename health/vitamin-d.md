@@ -1,6 +1,9 @@
 # Vitamin D
 
-What is it? A hormone created via the exposure to sunlight. It’s responsible for increasing the absorption of Calcium, Magnesium and Phosphate.
+### What is it? 
+
+A hormone created via the exposure to sunlight.   
+It’s responsible for increasing the absorption of Calcium, Magnesium and Phosphate.
 
 #### Source
 
@@ -16,7 +19,8 @@ What is it? A hormone created via the exposure to sunlight. It’s responsible f
 
 ### Usage
 
-Take Vitamin-D in the morning with a meal Do not take it in the evening or it will cause sleeping issues \(probably related to the circadian rhythm\).
+Take Vitamin-D in the morning with a meal.  
+Do not take it in the evening or it will cause sleeping issues \(probably related to the circadian rhythm\).
 
 #### Recommend level
 
@@ -25,7 +29,8 @@ Take Vitamin-D in the morning with a meal Do not take it in the evening or it wi
 
 #### Dosage
 
-The impact of 1,000 IU \(International Unit\) will vary from one person to person. As a starting point consider that 1,000 IU will increase the blood level by 10 ng/ml.
+The impact of 1,000 IU \(International Unit\) will vary from one person to person.   
+As a starting point consider that 1,000 IU will increase the blood level by 10 ng/ml.
 
 #### Interactions
 
