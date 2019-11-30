@@ -2,15 +2,7 @@
 
 * [Home](README.md)
 
-## Abc
+## Books
 
-* [Untitled](abc/untitled.md)
-
-## Group 1
-
-* [Untitled](group-1/untitled.md)
-
-## Group 2
-
-* [Untitled](group-2/untitled.md)
+* [Untitled](books/untitled.md)
 
