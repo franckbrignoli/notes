@@ -5,6 +5,7 @@
   * [2016](books/2016/README.md)
     * [Building Microservices](books/2016/building-microservices.md)
     * [Elon Musk](books/2016/elon-musk.md)
+    * [Self Theories](books/2016/self-theories.md)
     * [The Passionate Programmer](books/2016/the-passionate-programmer.md)
 * [Health](health/README.md)
   * [Vitamin D](health/vitamin-d.md)
