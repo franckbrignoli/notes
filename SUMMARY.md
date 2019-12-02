@@ -11,4 +11,5 @@
   * [Vitamin D](health/vitamin-d.md)
   * [Omega 3](health/omega-3.md)
 * [CLI](cli.md)
+* [Podcasts](podcasts.md)
 
