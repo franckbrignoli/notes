@@ -13,4 +13,7 @@
   * [Omega 3](health/omega-3.md)
 * [CLI](cli.md)
 * [Podcasts](podcasts.md)
+* [Courses](courses/README.md)
+  * [Inspiring & Motivating People](courses/inspiring-and-motivating-people.md)
+  * [The Science Of Happiness](courses/the-science-of-happiness.md)
 
