@@ -21,7 +21,7 @@
 
 ![](.gitbook/assets/image%20%285%29.png)
 
-* Less water = Lower temperature \(more space for the air/vapor\)
+* Less water = Lower temperature \(more space for the air/steam\)
 * More water = Higher temperature
 
 More details on [https://www.youtube.com/watch?v=ObkjKlJe68A](https://www.youtube.com/watch?v=ObkjKlJe68A)
