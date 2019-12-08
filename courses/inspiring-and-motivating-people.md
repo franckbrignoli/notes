@@ -110,7 +110,7 @@ Assess your team member, based on the pyramid
 
 Differences between generations:
 
-![](../.gitbook/assets/image%20%288%29.png)
+![](../.gitbook/assets/image%20%289%29.png)
 
 Drivers of satisfaction vs dissatisfaction \(hygienes & motivators factors\)
 
