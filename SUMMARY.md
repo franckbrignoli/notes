@@ -8,6 +8,7 @@
     * [Self Theories](books/2016/self-theories.md)
     * [The Passionate Programmer](books/2016/the-passionate-programmer.md)
 * [Health](health/README.md)
+  * [Sleep](health/sleep.md)
   * [Fat](health/fat.md)
   * [Vitamin D](health/vitamin-d.md)
   * [Omega 3](health/omega-3.md)
