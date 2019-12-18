@@ -2,6 +2,7 @@
 
 * [About](README.md)
 * [Books](books/README.md)
+  * [Map and Territory \(Rationality: From AI to Zombies Book 1\)](books/map-and-territory-rationality-from-ai-to-zombies-book-1.md)
   * [2016](books/2016/README.md)
     * [Building Microservices](books/2016/building-microservices.md)
     * [Elon Musk](books/2016/elon-musk.md)
