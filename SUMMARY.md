@@ -20,5 +20,9 @@
   * [Inspiring & Motivating People](courses/inspiring-and-motivating-people.md)
   * [The Science Of Happiness](courses/the-science-of-happiness.md)
 * [NodeJS](nodejs.md)
-* [Moka Pot](coffee.md)
+* [Food](food/README.md)
+  * [Recipes](food/recipes.md)
+  * [Coffee](food/coffee/README.md)
+    * [V60](food/coffee/v60.md)
+    * [Moka Pot](food/coffee/moka-pot.md)
 
