@@ -24,5 +24,5 @@
   * [Recipes](food/recipes.md)
   * [Coffee](food/coffee/README.md)
     * [V60](food/coffee/v60.md)
-    * [Moka Pot](food/coffee/moka-pot.md)
+    * [Moka Pot](coffee.md)
 
