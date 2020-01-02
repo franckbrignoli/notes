@@ -31,7 +31,9 @@ The glycemic response is very personal.
       </td>
     </tr>
   </tbody>
-</table>### Protocol 
+</table>Aiming for a daily average of 90 with +/- 20 variance seems like the way to go.
+
+### Protocol
 
 * Define your baseline by measuring your glucose level in the morning before eating/drinking anything \(fasting glucose\)
 * Before eating verify that you are within the 20mg/dl of your baseline
@@ -47,4 +49,6 @@ The glycemic response is very personal.
 ### Links
 
 * [Quantified Self - Testing Food with Blood Glucose](https://quantifiedself.com/blog/qs-guide-testing-food-with-blood-glucose/)
+* [Tracking Blood Sugar](https://eric.jain.name/2018/11/25/tracking-blood-sugar/)
+* [Tracking Glucose As A Non-Diabetic](https://lilynicholsrdn.com/cgm-experiment-non-diabetic-continuous-glucose-monitor/)
 
