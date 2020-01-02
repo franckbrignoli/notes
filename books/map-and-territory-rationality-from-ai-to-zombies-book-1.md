@@ -34,7 +34,19 @@ The rationalist virtue of empiricism consists of **constantly asking which exper
 
 **Choosing neutrality is just as attackable as any particular side**. \(Additionally, choosing neutrality can encourage the dominant side\).
 
+**Hindsight bias**: the tendency to perceive events that has already occured as having been more predictable than they were before the event took place
 
+**A clear argument has to start from what an audience already knows or accepts.**
+
+At school we have learnt to answer with keywords to have a good grade without a real understanding behind the keywords \(**guessing the teacher password**\). This learned behaviour is still very active in our daily life.
+
+**Beware of semantic stopsign**, it is a curiousity blocker and prevent us to consider the next question:  
+- Where does this laws of physics come from?  
+- God!   
+  
+**Go head first and confront the mysterious part directly \(learning\).**
+
+We usually try to find positive examples to determine a rule but you have to search for negative example to define it \(ex: 2-4-6 rule\)
 
 
 
