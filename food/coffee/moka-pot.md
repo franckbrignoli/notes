@@ -19,7 +19,7 @@
 
 ### Temperature
 
-![](.gitbook/assets/image%20%285%29.png)
+![](../../.gitbook/assets/image%20%285%29.png)
 
 * Less water = Lower temperature \(more space for the air/steam\)
 * More water = Higher temperature

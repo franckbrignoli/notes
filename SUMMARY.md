@@ -9,7 +9,7 @@
     * [Self Theories](books/2016/self-theories.md)
     * [The Passionate Programmer](books/2016/the-passionate-programmer.md)
 * [Health](health/README.md)
-  * [Tracking Glucose](health/tracking-glucose.md)
+  * [Glucose](health/glucose.md)
   * [Sleep](health/sleep.md)
   * [Fat](health/fat.md)
   * [Vitamin D](health/vitamin-d.md)
@@ -24,5 +24,5 @@
   * [Recipes](food/recipes.md)
   * [Coffee](food/coffee/README.md)
     * [V60](food/coffee/v60.md)
-    * [Moka Pot](coffee.md)
+    * [Moka Pot](food/coffee/moka-pot.md)
 
