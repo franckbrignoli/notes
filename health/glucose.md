@@ -3,8 +3,7 @@
 ### What is it?
 
 Glucose is used as fuel by the cells.  
-Cells need Insulin \(produced by the Pancreas\) to absorb the Glucose.  
-
+Cells need Insulin \(produced by the Pancreas\) to absorb the Glucose.
 
 ### Levels Recommendation
 
@@ -33,12 +32,6 @@ Cells need Insulin \(produced by the Pancreas\) to absorb the Glucose.
   </tbody>
 </table>Aiming for a daily average of 90 with +/- 20 variance seems like the way to go.
 
-### Measuring Glucose
-
-* Define your baseline by measuring your glucose level in the morning before eating/drinking anything \(fasting glucose\)
-* Before eating verify that you are within the 20mg/dl of your baseline
-* Eat the food that you want to test and measure every 30min until you are back within the 20mg/dl zone of your baseline \(roughly 2 hours\)
-
 ### Open Questions
 
 * Is the glycemic response to 1 aliment always similar? does it vary based on the context \(ex: sugar after protein\)
@@ -48,8 +41,5 @@ Cells need Insulin \(produced by the Pancreas\) to absorb the Glucose.
 
 ### Links
 
-* [Quantified Self - Testing Food with Blood Glucose](https://quantifiedself.com/blog/qs-guide-testing-food-with-blood-glucose/)
-* [Tracking Blood Sugar](https://eric.jain.name/2018/11/25/tracking-blood-sugar/)
-* [Tracking Glucose As A Non-Diabetic](https://lilynicholsrdn.com/cgm-experiment-non-diabetic-continuous-glucose-monitor/)
 * [Insulin Resistance](https://blog.daveasprey.com/insulin-resistance/)
 

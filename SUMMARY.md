@@ -10,6 +10,7 @@
     * [The Passionate Programmer](books/2016/the-passionate-programmer.md)
 * [Health](health/README.md)
   * [Glucose](health/glucose.md)
+  * [Tracking Glucose](health/tracking-glucose.md)
   * [Sleep](health/sleep.md)
   * [Fat](health/fat.md)
   * [Vitamin D](health/vitamin-d.md)
