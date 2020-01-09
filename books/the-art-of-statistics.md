@@ -11,5 +11,11 @@ We need data literacy to be able to do:
 
 ### Getting Things in Proportion
 
+* Framing positively/negatively has an emotional impact \(ex: 95% success or 5% failure\)
+* using relative risk is misleading \(ex: 18% more than the other group\) clarify with absolute risk
+* Communicate risks with expected frequencies to improve understanding - _what does it means for 100 person?_
+
+\_\_
+
 
 
