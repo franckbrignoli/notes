@@ -16,6 +16,12 @@ Show the lines in 1 but not in 2 \(-2 hide the ones present only in 2, -3
 $ comm -23 1.txt 2.txt
 ```
 
+### Grep Multiple Values 
+
+```text
+$ grep -f file_pattern.txt file.txt
+```
+
 ### Generate QR Code for WIFI
 
 ```text
