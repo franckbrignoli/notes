@@ -23,6 +23,10 @@ Long chain fo fatty acid coming from animal \(fish, seafood, etc…\)
 * Muscle Growth 
 * Better sleep
 
+**DHA**
+
+\*\*\*\*
+
 ### Recommended Level
 
 #### Ration Omega 6 / Omega 3
