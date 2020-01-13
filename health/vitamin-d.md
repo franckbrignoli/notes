@@ -35,7 +35,7 @@ As a starting point consider that 1,000 IU will increase the blood level by 10 n
 #### Interactions
 
 * Body Fat pulls out the Vitamin D from the blood stream.
-* [Vitamin K2 ](https://info.dralexrinehart.com/articles/vitamin-d-and-vitamin-k2-benefits-connection)
+* Over-supplementation of vitamin D3 _without_ ample [vitamin K2](https://info.dralexrinehart.com/articles/vitamin-d-and-vitamin-k2-benefits-connection), leads to problems of excess calcium.
 
 ### Sources
 
