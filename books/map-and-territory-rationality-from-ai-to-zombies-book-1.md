@@ -24,7 +24,7 @@ We are bad at planning. When asked for a realistic scenario, we envision everyth
   
 Use the outside view to avoid thinking about the unique features of a project and just ask yourself how long it took to finish a similar project in the past.
 
-**Foudational Skill**: The ability to spot psychological signs that you have or not, a mental map of something
+**Foundational Skill**: The ability to spot psychological signs that you have or not, a mental map of something
 
 The rationalist virtue of empiricism consists of **constantly asking which experience our beliefs predict or prohibit.** If you believe X what do you expect to see happen because of X
 
