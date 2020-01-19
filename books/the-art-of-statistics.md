@@ -12,8 +12,29 @@ We need data literacy to be able to do:
 ### Getting Things in Proportion
 
 * Framing positively/negatively has an emotional impact \(ex: 95% success or 5% failure\)
-* using relative risk is misleading \(ex: 18% more than the other group\) clarify with absolute risk
+* using relative risk is misleading \(ex: 18% more than the other group\) clarify by using absolute risk
 * Communicate risks with expected frequencies to improve understanding - _what does it means for 100 person?_
+
+### Summarizing and Communicating Numbers, Lots of Numbers
+
+* Wisdom of crowds - averaging multiple estimates
+* Visualization - use logarithmic scales to reduce the impact of extreme values
+* Mean/Mode/Median 
+* Describe the spread with 
+  * Range
+  * Inter-quartile range - difference between 75th and 25th percentile
+  * Standard deviation
+* Describe relation between variables
+  * Pearson correlation coefficient
+  * Spearman's rank correlation
+
+### Why Are We Looking At Data Anyway
+
+* [Deduction vs Induction](https://socialresearchmethods.net/kb/dedind.php)
+  * Deduction \(or top-down\): Theory &gt; Hypothesis &gt; Observation &gt; Confirmation
+  * Induction \(bottom-up\): Observation &gt; Pattern &gt; Tentative Hypothesis &gt; Theory
+
+
 
 \_\_
 
