@@ -24,6 +24,16 @@ Natural processing may add a fruity taste like: blueberry, strawberry or tropica
 
 The result will generaly have a higher level of acidity, increased complexity and feeling of "cleaner cup"
 
+
+
+### Scoring
+
+| Score | Comment |
+| :--- | :--- |
+| 90 - 100 | Outsanding |
+| 85 - 89.99 | Excellent |
+| 80 - 84.99 | Very Good |
+
 ### Links
 
 * [James Hoffmann](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ) \(Youtube\)
