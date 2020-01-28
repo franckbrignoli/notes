@@ -39,3 +39,17 @@ $ convert $filename.png -type Grayscale -scale "100%" -auto-gamma -auto-level -b
 $ potrace -s -H 400pt -t 10 -z black -C "#444444" --tight $filename.bmp
 ```
 
+### Varnish
+
+Backend health
+
+```text
+$ varnishadm debug.health
+```
+
+Backend list
+
+```text
+$ varnishadm backend.list
+```
+
