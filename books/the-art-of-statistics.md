@@ -52,6 +52,19 @@ Or that Y only occurs when X.
 
 ### Algorithms, Analytics And Prediction
 
+**Feature engineering:** reduce/transform measure to make them more relevant \(ex: with the human face\)
+
+**Sensitivity**: proportion of positive cases correctly identified   
+**Specificity**: number of negative cases correctly identified
+
+**Mean Squared Error** is used as summary of the error over a number of days.
+
+Protection against overfitting is known as **bias** or **variance trade-off**
+
+### Putting Probability And Statistics Together
+
+Probability 
+
 
 
   
