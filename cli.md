@@ -29,6 +29,8 @@ $ brew install qrencode
 $ qrencode -o wifi.png "WIFI:T:WPA;S:<SSID>;P:<PASSWORD>;;"
 ```
 
+\(or [browser version](https://qifi.org/)\)
+
 ### Images To SVG
 
 \(thanks to [arkwrite](https://twitter.com/arkwrite/status/1212082448567349248?s=20)\)
