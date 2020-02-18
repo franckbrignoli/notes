@@ -29,4 +29,5 @@
     * [V60](food/coffee/v60.md)
     * [Moka Pot](food/coffee/moka-pot.md)
   * [Recipes](food/recipes.md)
+* [German](german.md)
 
