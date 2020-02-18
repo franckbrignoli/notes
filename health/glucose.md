@@ -32,14 +32,8 @@ Cells need Insulin \(produced by the Pancreas\) to absorb the Glucose.
   </tbody>
 </table>Aiming for a daily average of 90 with +/- 20 variance seems like the way to go.
 
-### Open Questions
-
-* Is the glycemic response to 1 aliment always similar? does it vary based on the context \(ex: sugar after protein\)
-* What happen to the blood glucose during/after a workout?
-* I have noticed an increase of my blood glucose while watching a cooking channel on YT, is there any relation?
-* Why is my blood glucose going below my "baseline" after a meal?
-
 ### Links
 
 * [Insulin Resistance](https://blog.daveasprey.com/insulin-resistance/)
+* [Insulin Index](https://en.wikipedia.org/wiki/Insulin_index)
 
