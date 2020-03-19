@@ -26,6 +26,7 @@
 * [NodeJS](nodejs.md)
 * [Food](food/README.md)
   * [Coffee](food/coffee/README.md)
+    * [Selection](food/coffee/selection.md)
     * [V60](food/coffee/v60.md)
     * [Moka Pot](food/coffee/moka-pot.md)
   * [Recipes](food/recipes.md)

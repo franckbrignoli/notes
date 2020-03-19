@@ -34,11 +34,6 @@ The result will generaly have a higher level of acidity, increased complexity an
 | 85 - 89.99 | Excellent |
 | 80 - 84.99 | Very Good |
 
-### My Favorites 
-
-* The Barn - El Marcelo
-* The Barn - Edido 
-
 ### Links
 
 * [James Hoffmann](https://www.youtube.com/channel/UCMb0O2CdPBNi-QqPk5T3gsQ) \(Youtube\)

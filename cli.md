@@ -55,7 +55,3 @@ Backend list
 $ varnishadm backend.list
 ```
 
-### JQ 
-
-* [https://mosermichael.github.io/jq-illustrated/dir/content.html](https://mosermichael.github.io/jq-illustrated/dir/content.html)
-
