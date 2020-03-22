@@ -2,6 +2,7 @@
 
 * [About](README.md)
 * [Books](books/README.md)
+  * [Prepared](books/prepared.md)
   * [How To Read A Book](books/how-to-read-a-book.md)
   * [The Art of Statistics](books/the-art-of-statistics.md)
   * [Map and Territory \(Rationality: From AI to Zombies Book 1\)](books/map-and-territory-rationality-from-ai-to-zombies-book-1.md)
