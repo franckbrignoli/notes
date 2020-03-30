@@ -22,6 +22,7 @@
 * [CLI](cli.md)
 * [Podcasts](podcasts.md)
 * [Courses](courses/README.md)
+  * [Writing For Business](courses/writing-for-business.md)
   * [Inspiring & Motivating People](courses/inspiring-and-motivating-people.md)
   * [The Science Of Happiness](courses/the-science-of-happiness.md)
 * [NodeJS](nodejs.md)
