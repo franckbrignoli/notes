@@ -110,11 +110,11 @@ Assess your team member, based on the pyramid
 
 Differences between generations:
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%2811%29.png)
 
 Drivers of satisfaction vs dissatisfaction \(hygienes & motivators factors\)
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%285%29.png)
 
 #### Extrinsic vs Intrinsic Motivators
 

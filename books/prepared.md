@@ -1,7 +1,5 @@
 # Prepared
 
-[https://www.amazon.com/Prepared-What-Kids-Need-Fulfilled/dp/1984826069/](https://www.amazon.com/Prepared-What-Kids-Need-Fulfilled/dp/1984826069/)
-
 ### Project Based Learning
 
 * Learning with a project = higher understanding, memorization and more fun
@@ -45,4 +43,22 @@
     * decision grid \(who will decide, veto, input proposal...\)
       * no one want to make all the decisions they just want to make the decision important to them
     * STP \(Status, Target, Proposal\)
+* Group members need to speak honestly about their feelings
+
+### Successful Habits: The Building Blocks
+
+![](../.gitbook/assets/image%20%284%29.png)
+
+### Curiosity Driven Knowledge
+
+* Student feel respected when we let them choose how to learn
+* Instead of "presenting" content, the teacher are present just to answer student questions.
+* Let children follow their curiosity so they learn much more and this knowledge is often shared with others topics.
+* Expose student to as many experience and ideas as possible to spark interest.
+
+
+
+{% embed url="https://www.amazon.com/Prepared-What-Kids-Need-Fulfilled/dp/1984826069/" %}
+
+
 
