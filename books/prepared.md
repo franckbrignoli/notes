@@ -1,5 +1,7 @@
 # Prepared
 
+[https://www.amazon.com/Prepared-What-Kids-Need-Fulfilled/dp/1984826069/](https://www.amazon.com/Prepared-What-Kids-Need-Fulfilled/dp/1984826069/)
+
 ### Project Based Learning
 
 * Learning with a project = higher understanding, memorization and more fun
