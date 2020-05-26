@@ -65,6 +65,12 @@ $ varnishadm backend.list
 
 * [https://mosermichael.github.io/jq-illustrated/dir/content.html](https://mosermichael.github.io/jq-illustrated/dir/content.html)
 
+Existing key
+
+```text
+$ cat stuff.json | jq ".[] | select(.clientNumber != null)"
+```
+
 ### Curl
 
 Display requests timings \(from [stackoverflow](https://stackoverflow.com/a/22625150)\)
