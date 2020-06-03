@@ -89,3 +89,18 @@ $ cat curl-format.txt
 $ curl http://google.com -w "@curl-format.txt"
 ```
 
+### Templating
+
+```text
+FOO=foo
+BAR=bar
+export FOO BAR
+
+envsubst <<EOF
+FOO is $FOO
+BAR is $BAR
+EOF
+```
+
+
+
