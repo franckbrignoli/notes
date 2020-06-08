@@ -13,6 +13,7 @@
     * [Self Theories](books/2016/self-theories.md)
     * [The Passionate Programmer](books/2016/the-passionate-programmer.md)
 * [Health](health/README.md)
+  * [Fasting](health/fasting.md)
   * [Sulforaphane](health/sulforaphane.md)
   * [Glucose](health/glucose.md)
   * [Tracking Glucose](health/tracking-glucose.md)
