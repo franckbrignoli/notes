@@ -29,6 +29,7 @@
   * [The Science Of Happiness](courses/the-science-of-happiness.md)
 * [NodeJS](nodejs.md)
 * [Food](food/README.md)
+  * [Pizza](food/pizza.md)
   * [Coffee](food/coffee/README.md)
     * [Selection](food/coffee/selection.md)
     * [V60](food/coffee/v60.md)
