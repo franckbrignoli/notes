@@ -13,5 +13,14 @@
 | Salt | 2.20% | 4.95 |
 | Sugar | 2.20% | 4.95 |
 
-1h rest at room temperature
+1h rest at room temperature  
+30h rest in the fridge =&gt; balling   
+~20h rest in the fridge   
+30min rest at room temperature  
+  
+to improve:
+
+* a bit more time at room temperature before usage
+* mozarella was too wet \(but good taste\)
+* pre-heating a bit longer 
 
