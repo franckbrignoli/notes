@@ -102,5 +102,13 @@ BAR is $BAR
 EOF
 ```
 
+### Sort
 
+```text
+sort sum.txt --key 1,2 --stable
+```
+
+`--key` uses only the specified fields for sorting
+
+`--stable`
 
