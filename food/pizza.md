@@ -2,6 +2,19 @@
 
 ### Journal
 
+#### 25 June 2020
+
+|  |  |  |
+| :--- | :--- | :--- |
+| Flour | 100.00% | 435 |
+| Water | 62.00% | 270 |
+| Olive Oil | 1.00% | 4.35 |
+| Instant Yeast | 0.15% | 0.65 |
+| Salt | 2.20% | 9.57 |
+| Sugar | 1.10% | 4.75 |
+
+
+
 #### 18 June 2020
 
 |  |  |  |
@@ -23,4 +36,9 @@ to improve:
 * a bit more time at room temperature before usage
 * mozarella was too wet \(but good taste\)
 * pre-heating a bit longer 
+* less yeast?
+
+
+
+#### 
 
