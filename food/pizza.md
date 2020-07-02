@@ -2,6 +2,11 @@
 
 ### Journal
 
+#### 2 July 2020
+
+00 flour  
+manual kneading
+
 #### 25 June 2020
 
 |  |  |  |

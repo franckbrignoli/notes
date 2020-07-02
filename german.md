@@ -21,5 +21,4 @@
 #### Resources
 
 * [Read in German](https://www.fluentin3months.com/german-reading-practice/)
-* [https://deutsch.lingolia.com/fr/grammaire/les-adjectifs/declinaison](https://deutsch.lingolia.com/fr/grammaire/les-adjectifs/declinaison)
 
