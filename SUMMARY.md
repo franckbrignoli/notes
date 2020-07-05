@@ -31,6 +31,7 @@
 * [Food](food/README.md)
   * [Pizza](food/pizza.md)
   * [Coffee](food/coffee/README.md)
+    * [Cupping](food/coffee/cupping.md)
     * [Selection](food/coffee/selection.md)
     * [V60](food/coffee/v60.md)
     * [Moka Pot](food/coffee/moka-pot.md)
