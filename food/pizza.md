@@ -5,7 +5,11 @@
 #### 2 July 2020
 
 00 flour  
-manual kneading
+manual kneading  
+Pizza steel
+
+Dough too wet and easy to tear. Probably underknead.  
+But very happy wiith the pizza steel
 
 #### 25 June 2020
 
