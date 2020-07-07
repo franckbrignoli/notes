@@ -30,7 +30,9 @@ Cells need Insulin \(produced by the Pancreas\) to absorb the Glucose.
       </td>
     </tr>
   </tbody>
-</table>Aiming for a daily average of 90 with +/- 20 variance seems like the way to go.
+</table>
+
+Aiming for a daily average of 90 with +/- 20 variance seems like the way to go.
 
 ### Links
 
