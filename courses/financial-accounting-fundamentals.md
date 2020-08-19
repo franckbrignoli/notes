@@ -27,3 +27,81 @@ Accrual: register business transactions when they occurs independant from cash m
 
 ![](../.gitbook/assets/image%20%2813%29.png)
 
+#### The Balance Sheet
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"></th>
+      <th style="text-align:left">Resources That Are Expected To Provide Future Economic Benefits</th>
+      <th
+      style="text-align:left">Where The Company Got The Funds To Invest In Those Resources</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"><b>ASSETS</b>
+      </td>
+      <td style="text-align:left"><b>LIABILITES</b>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Recorded If</b>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Owned or Controlled by the company aas a result of a past exchange or
+            transaction</li>
+          <li>Expected to provide future benefit that can be measured</li>
+        </ul>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Future Payment is probable</li>
+          <li>Amount can be estimated</li>
+          <li>The event that caused the obligation has already happened</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Examples</b>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Cash</li>
+          <li>Inventory</li>
+          <li>Receivables</li>
+          <li>Prepaid Expenses</li>
+        </ul>
+      </td>
+      <td style="text-align:left">
+        <ul>
+          <li>Loan</li>
+          <li>Amount owed to suppliers</li>
+          <li>Product paid by the customers but not delivered</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"><b>OWNERS&apos; EQUITY</b>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Examples</b>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">
+        <ul>
+          <li>Capital Stock</li>
+          <li>Retained Earnings</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+A = L + OE
+
