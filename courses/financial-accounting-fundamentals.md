@@ -105,3 +105,15 @@ Accrual: register business transactions when they occurs independant from cash m
 
 A = L + OE
 
+### Week 2
+
+#### Journal Entries
+
+Account \(type A/L/OE\) \(inc/dec\) amount &lt;---- Left Side of a T Account  
+    Account \(type A/L/OE\) \(inc/dec\) amount
+
+
+
+  
+  
+
