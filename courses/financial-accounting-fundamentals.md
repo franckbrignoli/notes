@@ -114,6 +114,80 @@ Account \(type A/L/OE\) \(inc/dec\) amount &lt;---- Left Side of a T Account
 
 
 
-  
-  
+### Week 3
+
+#### Income Statement
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center"></th>
+      <th style="text-align:left"></th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:center"><b>Revenue</b>
+      </td>
+      <td style="text-align:left">Increase in Owners&apos; Equity</td>
+      <td style="text-align:left">
+        <ul>
+          <li>It&apos;s earned</li>
+          <li>It&apos;s realizable (can be converted to cash easily)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center"><b> - Expenses</b>
+      </td>
+      <td style="text-align:left">Decrease in OE from costs incurred to generate costs</td>
+      <td style="text-align:left">
+        <ul>
+          <li>Matching principles: record expenses in the period where related revenues
+            has occured</li>
+          <li>Conservatism principle: when it&apos;s hard to link costs &amp; revenues
+            (ex: marketing costs) record costs when they occured</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:center"><b>= Net Earnings</b>
+      </td>
+      <td style="text-align:left"></td>
+      <td style="text-align:left"></td>
+    </tr>
+  </tbody>
+</table>
+
+#### Adjusting Entries
+
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"></th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left"><b>Deferred Revenues &amp; Expenses</b>
+      </td>
+      <td style="text-align:left">
+        <p>Cash flow occured in the passed</p>
+        <p>Adjust an existing Asset</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left"><b>Accrued Revenues &amp; Expenses</b>
+      </td>
+      <td style="text-align:left">
+        <p>Cash flow will happen in the future</p>
+        <p>Create new Asset or Liability</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 
