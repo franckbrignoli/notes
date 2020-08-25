@@ -133,7 +133,7 @@ Account \(type A/L/OE\) \(inc/dec\) amount &lt;---- Left Side of a T Account
       <td style="text-align:left">Increase in Owners&apos; Equity</td>
       <td style="text-align:left">
         <ul>
-          <li>It&apos;s earned</li>
+          <li>It&apos;s earned (delivery has occurred/services have been rendered)</li>
           <li>It&apos;s realizable (can be converted to cash easily)</li>
         </ul>
       </td>
