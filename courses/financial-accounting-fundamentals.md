@@ -189,5 +189,18 @@ Account \(type A/L/OE\) \(inc/dec\) amount &lt;---- Left Side of a T Account
   </tbody>
 </table>
 
+### Week 4
 
+#### Cash Flow Statement
+
+|  |  |
+| :--- | :--- |
+| **Operations** |  |
+| **Financing** |  |
+| **Investment** |  |
+
+|  |  |
+| :--- | :--- |
+| **Direct Method** | Uses cash in & |
+| **Indirect Method** | Net Income - Adjustement |
 
