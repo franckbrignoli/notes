@@ -34,6 +34,13 @@ Cells need Insulin \(produced by the Pancreas\) to absorb the Glucose.
 
 Aiming for a daily average of 90 with +/- 20 variance seems like the way to go.
 
+### Notes
+
+* Muscles do not need insulin to consume glucose
+  * A short after lunch walk help to decrease glucose level
+* The order in which food is consumed impact the blood glucose 
+  * Fiber, fat, protein before carbs. 
+
 ### Links
 
 * [Insulin Resistance](https://blog.daveasprey.com/insulin-resistance/)
