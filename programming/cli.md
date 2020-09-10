@@ -102,6 +102,14 @@ BAR is $BAR
 EOF
 ```
 
+### 
+
+### Generate numbers
+
+```text
+seq 0 10 -f %02g # 01 02 ....
+```
+
 ### Sort
 
 ```text
