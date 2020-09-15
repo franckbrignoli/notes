@@ -17,6 +17,7 @@
   * [Fasting](health/fasting.md)
   * [Sulforaphane](health/sulforaphane.md)
   * [Glucose](health/glucose.md)
+  * [Insulin](health/insulin.md)
   * [Tracking Glucose](health/tracking-glucose.md)
   * [Sleep](health/sleep.md)
   * [Fat](health/fat.md)
