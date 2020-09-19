@@ -29,6 +29,7 @@
   * [Inspiring & Motivating People](courses/inspiring-and-motivating-people.md)
   * [The Science Of Happiness](courses/the-science-of-happiness.md)
   * [Financial Accounting Fundamentals](courses/financial-accounting-fundamentals.md)
+* [Tools](tools.md)
 * [Programming](programming/README.md)
   * [CLI](programming/cli.md)
   * [NodeJS](programming/nodejs.md)
