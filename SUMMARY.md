@@ -2,6 +2,7 @@
 
 * [About](README.md)
 * [Books](books/README.md)
+  * [Nonviolent Communication](books/nonviolent-communication.md)
   * [The Stoic Challenge](books/the-stoic-challenge.md)
   * [Designing Data-Intensive Application](books/designing-data-intensive-application.md)
   * [Prepared](books/prepared.md)
