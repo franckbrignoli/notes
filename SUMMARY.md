@@ -44,4 +44,5 @@
   * [Recipes](food/recipes.md)
 * [German](german.md)
 * [Writing](writing.md)
+* [Other](other.md)
 
