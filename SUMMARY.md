@@ -32,6 +32,7 @@
   * [Financial Accounting Fundamentals](courses/financial-accounting-fundamentals.md)
 * [Tools](tools.md)
 * [Programming](programming/README.md)
+  * [Teaching Kids](programming/teaching-kids.md)
   * [CLI](programming/cli.md)
   * [NodeJS](programming/nodejs.md)
 * [Food](food/README.md)
