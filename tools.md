@@ -1,24 +1,6 @@
 # Tools
 
-### Beancount
-
-#### Distinct Ledger in Fava
-
-Add a title in each files
-
-```text
-option "title" "Personal"
-```
-
-Start fava with your multiple files
-
-```text
-$ fava file1 file2
-```
-
- And now you can switch in the header
-
-#### SQL 
+### Beancount SQL
 
 The VAT that I should pay
 
