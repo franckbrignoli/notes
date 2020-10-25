@@ -18,5 +18,7 @@
 
 ![Gorgonzola e Spinaci](../.gitbook/assets/20201017_184238.jpg)
 
+![Chorizo, Walnuts, Salad](../.gitbook/assets/20201024_210934.jpg)
+
 
 
