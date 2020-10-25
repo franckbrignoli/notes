@@ -23,12 +23,19 @@ Questions:
 
 
 
-#### Session 2 \(24.10.2020\)
+#### Session 2 \(25.10.2020\)
 
 Goals:
 
 * Usage of variable
-* Introduction to conditional
+* Usage of messages
+
+Exercise:
+
+* Character 1 ask "Guess my name?"
+* Store the result in &lt;variable&gt;
+* Send a message to trigger Character 2 
+* Character 2: "Your name is &lt;variable&gt;" 
 
 
 
