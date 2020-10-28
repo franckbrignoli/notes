@@ -27,8 +27,9 @@ Questions:
 
 Goals:
 
-* Usage of variable
+* Usage of variables
 * Usage of messages
+* Usage of triggers
 
 Exercise:
 
@@ -36,6 +37,19 @@ Exercise:
 * Store the result in &lt;variable&gt;
 * Send a message to trigger Character 2 
 * Character 2: "Your name is &lt;variable&gt;" 
+
+
+
+#### Session 3 \(31.10.2020\)
+
+Goals: 
+
+* Usage of conditional 
+
+Exercise:
+
+* "Guess my number?"
+*  If &lt;number&gt; === &lt;good number&gt; then ...
 
 
 
