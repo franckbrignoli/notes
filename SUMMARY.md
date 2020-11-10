@@ -48,4 +48,5 @@
   * [NodeJS](programming/nodejs.md)
 * [Writing](writing.md)
 * [Other](other.md)
+* [Startup](startup.md)
 
