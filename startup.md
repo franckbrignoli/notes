@@ -8,7 +8,8 @@
 [https://www.technologyreview.com/](https://www.technologyreview.com/)  
 [https://techcrunch.com/](https://techcrunch.com/)  
 [https://stratechery.com/](https://stratechery.com/)  
-[https://angel.co/blog](https://angel.co/blog)  
+[https://angel.co/blo](https://angel.co/blog)[  
+https://www.startupdigest.com](https://www.startupdigest.com)  
 
 
 ### VC
