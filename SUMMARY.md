@@ -32,6 +32,7 @@
   * [Recipes](food/recipes.md)
 * [German](german.md)
 * [Health](health/README.md)
+  * [Magnesium](health/magnesium.md)
   * [Fasting](health/fasting.md)
   * [Sulforaphane](health/sulforaphane.md)
   * [Glucose](health/glucose.md)
