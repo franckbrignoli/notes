@@ -34,6 +34,8 @@ Cells need Insulin \(produced by the Pancreas\) to absorb the Glucose.
 
 Aiming for a daily average of 90 with +/- 20 variance seems like the way to go.
 
+\(Peter Attia aims for 84 to 88mg/dl with a standard deviation below 15\)
+
 ### Notes
 
 * Muscles do not need insulin to consume glucose
