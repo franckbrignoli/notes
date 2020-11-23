@@ -10,6 +10,9 @@
 [https://stratechery.com/](https://stratechery.com/)  
 [https://angel.co/blo](https://angel.co/blog)[  
 https://www.startupdigest.com](https://www.startupdigest.com)  
+[https://foundersatwork.posthaven.com/](https://foundersatwork.posthaven.com/)  
+[https://blog.samaltman.com](https://blog.samaltman.com)  
+[http://paulgraham.com](http://paulgraham.com)  
 
 
 ### VC
