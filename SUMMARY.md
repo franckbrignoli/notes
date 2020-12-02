@@ -44,6 +44,7 @@
   * [Omega 3](health/omega-3.md)
 * [Podcasts](podcasts.md)
 * [Programming](programming/README.md)
+  * [Anaconda/Jupyter](programming/anaconda-jupyter.md)
   * [Teaching Kids](programming/teaching-kids.md)
   * [CLI](programming/cli.md)
   * [NodeJS](programming/nodejs.md)
