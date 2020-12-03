@@ -30,7 +30,7 @@ The result will generaly have a higher level of acidity, increased complexity an
 
 | Score | Comment |
 | :--- | :--- |
-| 90 - 100 | Outsanding |
+| 90 - 100 | Outstanding |
 | 85 - 89.99 | Excellent |
 | 80 - 84.99 | Very Good |
 
