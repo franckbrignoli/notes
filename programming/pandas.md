@@ -45,5 +45,12 @@ df.drop_duplicates()
 df['timestamp'] = pd.to_datetime(something)
 ```
 
+### Plotting
 
+```text
+plt.bar([1, 2, 3], [224, 620, 425], tick_label=['a', 'b', 'c'])
+plt.title('Some Title')
+plt.xlabel('Some X Label')
+plt.ylabel('Some Y Label');
+```
 
