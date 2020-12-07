@@ -8,6 +8,8 @@ df.nunique() # count distinct values
 df.describe() # describtive stats for each columns
 
 df.duplicated() # sum(df.duplicated())
+
+df.shape
 ```
 
 ### Selection
@@ -43,6 +45,15 @@ df['acidity_levels'] = pd.cut(df['pH'], bin_edges, labels=bin_names)
 df.fillna()
 df.drop_duplicates()
 df['timestamp'] = pd.to_datetime(something)
+```
+
+### Structure
+
+```python
+df.rename(columns={"A": "a", "B": "c"})
+df.rename(columns=lambda x: x)
+
+df.drop(["A", "B"], axis=1)
 ```
 
 ### Plotting
