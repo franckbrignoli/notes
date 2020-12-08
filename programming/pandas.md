@@ -10,6 +10,8 @@ df.describe() # describtive stats for each columns
 df.duplicated() # sum(df.duplicated())
 
 df.shape
+
+df['A'].value_counts()
 ```
 
 ### Selection
@@ -29,13 +31,13 @@ df.iloc[:, np.r_[1:2, 12:]] # np.r_ to use multiple intervals
 
 Filters
 
-```text
+```python
 df[df[]
 ```
 
 Bins
 
-```text
+```python
 df['acidity_levels'] = pd.cut(df['pH'], bin_edges, labels=bin_names)
 ```
 
@@ -45,6 +47,8 @@ df['acidity_levels'] = pd.cut(df['pH'], bin_edges, labels=bin_names)
 df.fillna()
 df.drop_duplicates()
 df['timestamp'] = pd.to_datetime(something)
+
+df['cyl'].str.extract('(\d+)').astype(int)
 ```
 
 ### Structure
