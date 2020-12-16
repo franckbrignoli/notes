@@ -41,6 +41,12 @@ Bins
 df['acidity_levels'] = pd.cut(df['pH'], bin_edges, labels=bin_names)
 ```
 
+Queries
+
+```text
+df.query('name in ["Franck", "Carole"]')
+```
+
 ### Cleaning
 
 ```python
