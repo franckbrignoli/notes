@@ -2,6 +2,7 @@
 
 * [About](README.md)
 * [Books](books/README.md)
+  * [It's Okay to Be the Boss](books/its-okay-to-be-the-boss.md)
   * [Short Introduction to Accounting](books/short-introduction-to-accounting.md)
   * [Nonviolent Communication](books/nonviolent-communication.md)
   * [The Stoic Challenge](books/the-stoic-challenge.md)
