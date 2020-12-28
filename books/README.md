@@ -10,7 +10,7 @@ I keep track of the books I read on [Goodreads](https://www.goodreads.com/review
 
 ### Extract Highlights From Kindle
 
-{% embed url="https://github.com/rccavalcanti/fyodor" %}
+I use [fyodor](https://github.com/rccavalcanti/fyodor) to extract my highlights.
 
 French \(partial\) configuration file:
 
