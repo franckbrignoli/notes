@@ -2,6 +2,8 @@
 
 ### Simple & Sinister
 
+[https://www.amazon.com/Kettlebell-Simple-Sinister-Revised-Updated/dp/0989892433/](https://www.amazon.com/Kettlebell-Simple-Sinister-Revised-Updated/dp/0989892433/)
+
 Pros:
 
 * Very simple program
