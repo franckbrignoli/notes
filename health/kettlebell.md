@@ -14,10 +14,14 @@ Pros:
 
 * [Proper form](https://www.youtube.com/watch?v=KDBosfFUuDs)
 * [Common mistakes](https://www.youtube.com/watch?v=yeMXdkZ18EA&feature=youtu.be)
+* Make the Swing explosive
+* Start 2H and go 1H once confident
+* A Swing is NOT a Squat, it is a Hip Hinge
 
 #### **Turkish Get Up**
 
-* * [Step by Step](https://www.reddit.com/r/kettlebell/comments/kc0yl3/32kg_tgu_very_first_attempt/gfnfeda/?utm_source=reddit&utm_medium=web2x&context=3)
+* [Step by Step](https://www.reddit.com/r/kettlebell/comments/kc0yl3/32kg_tgu_very_first_attempt/gfnfeda/?utm_source=reddit&utm_medium=web2x&context=3)
+* Aim for 30 to 35 seconds each
 
 ### Links
 
