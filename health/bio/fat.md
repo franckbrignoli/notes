@@ -9,7 +9,7 @@ Increase LDL  and decrease HDL
 
 ### Saturated Fat \(Ok\)
 
-![Saturated Fat ](../.gitbook/assets/image%20%2810%29.png)
+![Saturated Fat ](../../.gitbook/assets/image%20%2810%29.png)
 
 Solid form  when cold.  
 Source: Red meat, dairy  foods, cheese, coconut oil...  
@@ -19,7 +19,7 @@ Source: Red meat, dairy  foods, cheese, coconut oil...
 
 ### Unsaturated  \(Good\)
 
-![Unsaturated Fat](../.gitbook/assets/image%20%283%29.png)
+![Unsaturated Fat](../../.gitbook/assets/image%20%283%29.png)
 
 Liquid form when cold.   
 Come mainly from vegetable, nuts, seeds and fish.  
