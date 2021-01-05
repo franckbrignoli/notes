@@ -1,4 +1,4 @@
-# Pandas
+# Pandas/Numpy
 
 ### Description
 
@@ -73,5 +73,12 @@ plt.bar([1, 2, 3], [224, 620, 425], tick_label=['a', 'b', 'c'])
 plt.title('Some Title')
 plt.xlabel('Some X Label')
 plt.ylabel('Some Y Label');
+```
+
+### Random
+
+```python
+np.random.randint(2, size=100) # generate 100 numbers between 0 inclusive and 2 exclusive
+np.random.choice([0, 1], size=10000, p=[0.8, 0.2]) # generate 1000 numbers between 0 and 1 with a biased probability
 ```
 

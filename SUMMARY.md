@@ -50,7 +50,7 @@
 * [Podcasts](podcasts.md)
 * [Programming](programming/README.md)
   * [Python](programming/python/README.md)
-    * [Pandas](programming/python/pandas.md)
+    * [Pandas/Numpy](programming/python/pandas.md)
     * [Anaconda/Jupyter](programming/python/anaconda-jupyter.md)
   * [Teaching Kids](programming/teaching-kids.md)
   * [CLI](programming/cli.md)
